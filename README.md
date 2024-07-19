@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ismayil Ismayilov</h1>
-- 🔭 I’m currently working on [Android App](https://github.com/ismylsmylv/MelodyPlay)
+- 🔭 I’m currently working on NirvaPay (https://github.com/ismylsmylv/NirvaPay)
 
 - 🌱 I’m currently learning **React Native**
 
