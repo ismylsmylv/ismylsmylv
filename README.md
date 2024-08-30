@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ismayil Ismayilov</h1>
-- 🔭 I’m currently working on NirvaPay (https://github.com/ismylsmylv/NirvaPay)
+<!--- 🔭 I’m currently working on NirvaPay (https://github.com/ismylsmylv/NirvaPay)-->
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [https://ismylsmylv.com/](https://ismylsmylv.com/)
 
